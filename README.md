@@ -1,5 +1,4 @@
-# arqcompB2024-lab-1-ares-moreno
-Currículum de Ares Moreno
+# Currículum de Ares Moreno
 ## Información Personal
 - **Nombre Completo**: Ares Aarón Charbel Moreno Quintero
 - **Correo Electrónico**: aacmq14@gmail.com
